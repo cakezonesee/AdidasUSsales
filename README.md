@@ -4,7 +4,7 @@ This my take on using Pandas in order to get the new DataFrame that I want.
 The Dataset which I use is from Kaggle by Heemali Chaudhari called "Adidas Sales Dataset"
 In this Dataset is about the Adidas sales in US from 2020 to 2021
 
-What I want to create is a new Dataset which contains the avergae of "Price per Unit" and "Operating Maring" and the sum of "Unit Sold" and "Total Sales" in each "Year" in each "Region" and by each "Sales Method"
+**What I want to create is** a new Dataset which contains **the avergae of "Price per Unit" and "Operating Maring" and the sum of "Unit Sold" and "Total Sales" in each "Year" in each "Region" and by each "Sales Method"**
 
 Below is the Example of the Dataset used.
 
